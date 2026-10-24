@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aakanksha%20Kachole&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+%26+Cloud+Engineer;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+%7C+Cloud;Build+%E2%80%A2+Learn+%E2%80%A2+Automate+%E2%80%A2+Deploy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Database+Cloud+%26+DevOps+Engineer;MySQL+%7C+Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+%7C+Cloud;Build+%E2%80%A2+Learn+%E2%80%A2+Automate+%E2%80%A2+Deploy" />
 
 <br>
 
